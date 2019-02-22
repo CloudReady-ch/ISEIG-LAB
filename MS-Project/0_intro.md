@@ -4,14 +4,13 @@
 
 # Objectifs
 ## Bases
-bonnes connaissances de l´environnement Windows en tant qu´utilisateur
+Bonnes connaissances de l´environnement Windows en tant qu´utilisateur
 * connaître les concepts et les instruments permettant de planifier un projet
 * connaître les concepts et les instruments permettant le suivi du projet
 * savoir mettre en place une organisation pour assurer le suivi du projet
 * savoir utiliser les fonctionnalités de Microsoft Project permettant de définir, planifier et piloter un projet
 ## Chefs de projets
-connaître les concepts et la terminologie de la gestion de projet
-connaître Excel et Windows en tant qu'utilisateur
+Connaître les concepts et la terminologie de la gestion de projet, connaître Excel et Windows en tant qu'utilisateur
 * créer et définir un projet 
 * gérer les délais, les contraintes et les tâches calendaires 
 * définir les dépendances entre les tâches 
