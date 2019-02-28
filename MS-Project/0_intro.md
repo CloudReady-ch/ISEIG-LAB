@@ -18,3 +18,7 @@ Connaître les concepts et la terminologie de la gestion de projet, connaître E
 * gérer l'avancement du projet et prévoir les dates futures 
 * créer les rapports d'avancement, d'utilisation des ressources et d'analyse 
 * planifier les équipes et connaître les fonctions de collaboration
+
+# Environnement d'apprentissage
+## Office 365 Education avec Project
+Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant une installation locale. Cf. https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/0.intro.md
