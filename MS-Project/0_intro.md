@@ -1,6 +1,6 @@
 # Microsoft Project Professional 2016/2019
-1. Les bases de la gestion de projet (avec application via MS-Project)
-2. Prise en main pour manager de projet (Chefs de projets)
+1. [Les bases de la gestion de projet](http://iseig.ch/index.php?cnnx_nRef=13&cnnx_nLien=3) (avec application via MS-Project)
+2. [Prise en main pour manager de projet[(http://iseig.ch/index.php?cnnx_nRef=14&cnnx_nLien=3) (Chefs de projets)
 
 # Objectifs
 ## Bases
