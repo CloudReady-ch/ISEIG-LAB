@@ -22,3 +22,8 @@ Connaître les concepts et la terminologie de la gestion de projet, connaître E
 # Environnement d'apprentissage
 ## Office 365 Education avec Project
 Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant une installation locale. Cf. https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/0.intro.md
+
+# Programme
+https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
+
+***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
