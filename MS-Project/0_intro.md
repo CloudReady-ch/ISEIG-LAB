@@ -2,7 +2,7 @@
 1. [Les bases de la gestion de projet](http://iseig.ch/index.php?cnnx_nRef=13&cnnx_nLien=3) (avec application via MS-Project)
 2. [Prise en main pour manager de projet](http://iseig.ch/index.php?cnnx_nRef=14&cnnx_nLien=3) (Chefs de projets)
 
-# Objectifs et prérequis
+# Prérequis et Objectifs
 ## Bases
 Bonnes connaissances de l´environnement Windows en tant qu´utilisateur
 * connaître les concepts et les instruments permettant de planifier un projet
