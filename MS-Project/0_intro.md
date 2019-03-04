@@ -24,6 +24,11 @@ Connaître les concepts et la terminologie de la gestion de projet, connaître E
 Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant une installation locale. Cf. https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/0.intro.md
 
 # Programme
-https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
+Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
+* https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684
+* Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net)
+
+Modules et exercices sur Github
+* https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
 
 ***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
