@@ -1,6 +1,6 @@
 ## Programme de formation 
 * éléments prévus
-* {éléments aperçus}
+* *{éléments aperçus}*
 * (éléments optionnels, selon desiderata apprenants)
 * ((éléments non prévus))
 
@@ -8,12 +8,12 @@
 ## Généralités
 * Définir la gestion de projets
 * (Exploiter les techniques de gestion de projets)
-* {Planifier un projet}
+* *{Planifier un projet}*
 * Lister les tâches et les jalons
 * Réfléchir aux liaisons entre les tâches
 * ((Estimer la durée des tâches))
 * Construire le réseau
-* {Équilibrer le réseau}
+* *{Équilibrer le réseau}*
 * Gérer le temps à travers les calendriers
 ## Project : environnement
 * Barre Affichage, Ruban, onglet Fichier, outils Accès rapide
