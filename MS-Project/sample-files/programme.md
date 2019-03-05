@@ -1,4 +1,5 @@
 ## Programme de formation 
+* éléments prévus
 * {éléments aperçus}
 * (éléments optionnels, selon desiderata apprenants)
 * ((éléments non prévus))
