@@ -25,10 +25,14 @@ Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant un
 
 # Programme
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
-* https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684
-* Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net)
+* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684)
+* Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
 
 Modules et exercices sur Github
 * https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
 
 ***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
+
+# Autres sources
+## Microsoft
+* [votre itinéraire de gestion d'un projet](https://support.office.com/fr-fr/article/la-carte-du-projet-votre-itin%C3%A9raire-de-gestion-d-un-projet-a0c5bf0e-94d9-48b8-a11f-db7e2d9df6c3)
