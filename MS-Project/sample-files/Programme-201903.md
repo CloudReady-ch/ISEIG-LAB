@@ -26,7 +26,7 @@
 * **Autoriser des heures supplémentaires**
 * **Examiner les ressources sur-utilisées**
 * **Coûts** : saisir un coût fixe pour une tâche
-* **Saisir un coût fixe pour le projet
+* **Saisir un coût fixe pour le projet**
 * **Saisir les coûts liés aux ressources de type Travail et de type Matériel**
 * **Choisir la méthode d'allocation des coûts**
 * **Produire le Cash-flow**
@@ -41,6 +41,6 @@
 * **Suivi des ressources** : suivre le travail de chaque ressource affectée sur des tâches terminées ou en cours
 * **Afficher le pourcentage du travail achevé dans le Suivi Gantt**
 * **Imprimer les dépassements de budget**
-* **Suivre le travail global réalisé sur les tâches **
+* **Suivre le travail global réalisé sur les tâches**
 
 ## **Exercices pratiques pour la mise en application des notions présentées**
