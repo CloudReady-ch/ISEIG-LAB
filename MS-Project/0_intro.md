@@ -35,4 +35,4 @@ Modules et exercices sur Github
 
 # Autres sources
 ## Microsoft
-* [](https://support.office.com/fr-fr/article/la-carte-du-projet-votre-itin%C3%A9raire-de-gestion-d-un-projet-a0c5bf0e-94d9-48b8-a11f-db7e2d9df6c3)
+* [votre itinéraire de gestion d'un projet](https://support.office.com/fr-fr/article/la-carte-du-projet-votre-itin%C3%A9raire-de-gestion-d-un-projet-a0c5bf0e-94d9-48b8-a11f-db7e2d9df6c3)
