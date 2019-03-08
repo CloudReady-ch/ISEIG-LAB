@@ -9,7 +9,7 @@ La licence qui va s'y appliquer sera sous licences CC-BY-SA-NC.
 
 Ces oeuvres, créations, site ou texte est sous licence Creative Commons Paternité - Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 4.0 International. Pour accéder à une copie de cette licence, merci de vous rendre à l'adresse suivante http://creativecommons.org/licenses/by-nc-sa/4.0/ ou envoyez un courrier à Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-Les personnes qui souhaitent utiliser ces supports pour diffuser des contenus payants, peuvent s'acquitter d'une contribution et rejoindre l'association des formateurs indépendants
+Les personnes qui souhaitent utiliser ces supports pour diffuser des contenus payants, peuvent s'acquitter d'une contribution et rejoindre l'association des formateurs indépendants (Collectif QuickLearn.online ou QuickLearn.ch, http://callme.kotte.net)
 * Le partage de nos supports en mode contributif permet d'accélérer
 * Cette contribution pourra se faire soit sous forme de participation financière au travail
 * L'objectif est aussi de rémunérer le travail des créateurs de supports de formations, (pas de générer des rentes)
