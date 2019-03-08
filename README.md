@@ -20,6 +20,6 @@ Les personnes qui souhaitent utiliser ces supports pour diffuser des contenus pa
 * Les coopérateurs sont signataires de la charte de collboration www.Kalix.ch
 * Il est possible de rejoindre l'association en étant membre d'une des associations affiliées.
 * Etre membre, ne libère pas de devoirs de solidarité envers les créateurs et producteurs de contenus et supports, afin de leur restituer une légitime rétribution pour le travail réalisé.
-* Le mode de rétribution proposé est en "*[participation libre et en pleine conscience](http://www.plumesdorees.com/web/wp-content/uploads/2016/06/Participation-libre-et-consciente.pdf)*"
+* Le mode de rétribution proposé est en "*[participation libre et consciente](http://www.plumesdorees.com/web/wp-content/uploads/2016/06/Participation-libre-et-consciente.pdf)*"
 
 Les fils rouges vont pointer vers les contenus existants, ou créés à cette occasion, en ligne. Les sous-ensembles peuvent utiliser différents supports, derrière des liens invisibles ou publiquement accessibles. Des sauvegardes de ces supports dans un sous-dossier propre à la formation sont vivement recommandés, quand cela est possible.
