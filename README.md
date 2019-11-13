@@ -17,7 +17,7 @@ Les personnes qui souhaitent utiliser ces supports pour diffuser des contenus pa
 * L'objectif est aussi de rémunérer le travail des créateurs de supports de formations (mais pas de générer des rentes).
 * Le partage de l'intelligence, de la pertinence et de la performance des supports avec une amélioration constante.
 * L'évaluation et les conciliations se font en sociocratie par les pairs, membres de la coopérative.
-* Les coopérateurs sont signataires de la charte de collboration www.Kalix.ch
+* Les coopérateurs sont signataires de la charte de collaboration www.Kalix.ch
 * Il est possible de rejoindre l'association en étant membre d'une des associations affiliées.
 * Etre membre, ne libère pas de devoirs de solidarité envers les créateurs et producteurs de contenus et supports, afin de leur restituer une légitime rétribution pour le travail réalisé.
 * Le mode de rétribution proposé est en "*[participation libre et consciente](http://www.plumesdorees.com/web/wp-content/uploads/2016/06/Participation-libre-et-consciente.pdf)*"
