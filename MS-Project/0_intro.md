@@ -1,6 +1,9 @@
 # Microsoft Project Professional 2016/2019
+## ISEIG.ch (Vaud)
 1. [Les bases de la gestion de projet](http://iseig.ch/index.php?cnnx_nRef=13&cnnx_nLien=3) (avec application via MS-Project)
 2. [Prise en main pour manager de projet](http://iseig.ch/index.php?cnnx_nRef=14&cnnx_nLien=3) (Chefs de projets)
+## CPI.ch (Fribourg)
+* http://cpi.ch/fr/nos-formations/Gestion-de-projets-290.html (formations customisées selon les besoins)
 
 # Prérequis et Objectifs
 ## Bases
