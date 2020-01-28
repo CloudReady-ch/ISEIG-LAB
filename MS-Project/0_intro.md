@@ -26,13 +26,19 @@ Connaître les concepts et la terminologie de la gestion de projet, connaître E
 ## Office 365 Education avec Project
 Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant une installation locale. Cf. https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/0.intro.md
 
-# Programme
+# Programme et support
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
 * [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684)
 * Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
 
 Modules et exercices sur Github
 * https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
+
+Supports de références et généralement associés aux formations
+* [Project 2019 (Edition ENI)](https://www.editions-eni.fr/livre/project-2019-9782409020407)
+  * Parution : septembre 2019
+  * Réf. ENI : RB19PRO
+  * ISBN : 9782409020407
 
 ***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
 
