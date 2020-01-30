@@ -28,7 +28,7 @@ Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant un
 
 # Programme et support
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
-* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684)
+* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684) http://project.quicklearn.ch 
 * Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
 
 Modules et exercices sur Github
@@ -39,6 +39,7 @@ Supports de références et généralement associés aux formations
   * Parution : septembre 2019
   * Réf. ENI : RB19PRO
   * ISBN : 9782409020407
+  * PDF: [table des matières](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/Sample-ENI/ENI%20Project%202019%20-%20Table%20des%20mati%C3%A8res_978-2-409-02040-7.pdf).
 
 ***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
 
