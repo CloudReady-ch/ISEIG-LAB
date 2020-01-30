@@ -29,7 +29,8 @@ Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant un
 # Programme et support
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
 * [Formation MS-Project, QuickLearn](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684) via l'url courte **http://project.quicklearn.ch**
-* Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
+  * Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
+  * **Important**: La plateforme de blog public moderne utilisée va réclamer une identification, qui n'est pas nécessaire pour les premières pages lues, mais par la suite oui. Il est possible de se créer un compte depuis un identifiant existant Google ou Facebook (ou twitter) sinon un simple email et mot de passe. Le profil est initié avec la sélection de 3 domaines (exprimés en anglais), mais uniquement pour fournir une pré-sélection initiale de sujets associés. Par la suite, il n'y a pas d'abus des données, ni collecte d'informations. Il est toutefois facile pour simple lecteur de contriburer à améliorer le support directement, soit en mode privé avec l'auteur, soit en commentaire public. Merci d'avance d'applaudir nos supports s'ils vous plaisent ("clap" de 1 à 50 fois), et d'enrichir de vos questions, suggestions et commentaires.
 
 Modules et exercices sur Github
 * https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
