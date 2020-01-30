@@ -28,7 +28,7 @@ Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant un
 
 # Programme et support
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
-* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684) http://project.quicklearn.ch 
+* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684) via l'url courte http://project.quicklearn.ch 
 * Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
 
 Modules et exercices sur Github
