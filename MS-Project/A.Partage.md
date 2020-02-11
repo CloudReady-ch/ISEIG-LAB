@@ -1,4 +1,4 @@
-# Module A: Partager
+# Module 10 (A): Partager
 ## Définitions
 * Les projets consolidés - sous-projets liés
 * ressources partagées
