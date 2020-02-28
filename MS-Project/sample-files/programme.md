@@ -1,4 +1,6 @@
 # DRAFT non validé
+On a ici une liste d'opération qui sont identifiées associées à Project, afin de valider un contenu de formation qui puisse être exhaustif. Mais cette liste n'est pas nécessairement structurées, et nécessiterait une validation/organisation.
+
 ## Programme de formation 
 * éléments prévus
 * *{éléments aperçus}*

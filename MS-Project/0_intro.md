@@ -1,6 +1,9 @@
 # Microsoft Project Professional 2016/2019
+## ISEIG.ch (Vaud)
 1. [Les bases de la gestion de projet](http://iseig.ch/index.php?cnnx_nRef=13&cnnx_nLien=3) (avec application via MS-Project)
 2. [Prise en main pour manager de projet](http://iseig.ch/index.php?cnnx_nRef=14&cnnx_nLien=3) (Chefs de projets)
+## CPI.ch (Fribourg)
+* http://cpi.ch/fr/nos-formations/Gestion-de-projets-290.html (formations customisées selon les besoins)
 
 # Prérequis et Objectifs
 ## Bases
@@ -21,15 +24,24 @@ Connaître les concepts et la terminologie de la gestion de projet, connaître E
 
 # Environnement d'apprentissage
 ## Office 365 Education avec Project
+### Contexte ISEIG
 Les 5 comptes A01.. A05 disposent des licences Project PRO online, permettant une installation locale. Cf. https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/0.intro.md
 
-# Programme
+# Programme et support
 Support de cours en Creative commons CC-BY-NC, autorisés à usage du collectif de formateurs Quicklearn.
-* [Sommaire formation MS-Project, supports en ligne](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684)
-* Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
+* [Formation MS-Project, QuickLearn](https://medium.com/quicklearn/microsoft-project-f06098f3913a?source=friends_link&sk=0f625dcb6084bfadc0fbcb9fc651e684) via l'url courte **http://project.quicklearn.ch**
+  * Auteur 1: Pascal.KOTTE@CloudReady.ch (http://Pascal.KOTTE.net) Pour Lausanne pk@iseig.ch cf. http://ISEIG.ch
+  * **Important**: La plateforme de blog public moderne utilisée ([MEDIUM](https://fr.wikipedia.org/wiki/Medium_(site_web))) va réclamer une identification, qui n'est pas nécessaire pour les premières pages lues, mais par la suite oui. Il est possible de se créer un compte depuis un identifiant existant Google ou Facebook (ou twitter) sinon via un simple email et mot de passe. Le profil est initié avec la sélection de 3 domaines (exprimés en anglais), mais uniquement pour fournir une pré-sélection initiale de sujets associés. Par la suite, il n'y a pas d'abus des données. Il est facile pour le lecteur de contriburer à améliorer le support directement, soit en mode privé avec l'auteur, soit en commentaire public (qui va apparaître dans la marge). Merci d'avance d'applaudir nos supports s'ils vous plaisent ("clap" de 1 à 50 fois), et d'enrichir de vos questions, suggestions et commentaires.
 
 Modules et exercices sur Github
 * https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project
+
+Supports de références et généralement associés aux formations
+* [Project 2019 (Edition ENI)](https://www.editions-eni.fr/livre/project-2019-9782409020407)
+  * Parution : septembre 2019
+  * Réf. ENI : RB19PRO
+  * ISBN : 9782409020407
+  * PDF: [table des matières](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/Sample-ENI/ENI%20Project%202019%20-%20Table%20des%20mati%C3%A8res_978-2-409-02040-7.pdf).
 
 ***Suite***: https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-Project/1.Généralités.md
 
