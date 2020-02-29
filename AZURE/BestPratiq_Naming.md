@@ -32,18 +32,18 @@ Les tags sont des étiquettes saisies avec une paire de valeurs:
 * La seconde valeur est le contenu de cette étiquette. NB. Il est donc possible de saisir plusieurs fois la même étiquette, avec des valeurs différentes (par exemple, une ressources utilisée sur 2 localisations)
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#metadata-tags
-* Tag=loc: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
+* Tag=**loc**: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
   * si les objets concernent un espace inter-nations, ajouter un codage région-zones: 
   * digital ex. cf. https://www.bfs.admin.ch/bfs/fr/home/bases-statistiques/stgb.assetdetail.7626604.html
   * code M49: https://unstats.un.org/unsd/methodology/m49/
-* Tag=cc: Centres de coûts (le mandant)
+* Tag=**cc**: Centres de coûts (le mandant)
   * interne et souvent existant dans l'organisation
-* Tag=obj: idem
-* Tag=resp: identifiant du service, département ou de la personne responsable, décideuse pour la ressource concernée
-* Tag=sup: identifiant du service, département ou de la personne responsable du support technique, des SLAs, à avertir en cas de problèmes (souvent le support niveau 2)
-* Tag=sd: identifiant du service desk qui assure l'assistance de premier niveau, en pensant aux hotlines rotatives 24/7 (en 3x8h) et donc une identification unique pour un groupe de multiples hotlines.
-* Tag=ed: End Date - la date de fin au format YYYYMMDD ou bien YYYY-MM-DD c'est plus explicite.
-* Tag=sd: Start Date - le début prévu d'utilisation de la ressource (et non la date de sa création)
-* Tag= : non limitatif.
+* Tag=**obj**: idem
+* Tag=**resp**: identifiant du service, département ou de la personne responsable, décideuse pour la ressource concernée
+* Tag=**sup**: identifiant du service, département ou de la personne responsable du support technique, des SLAs, à avertir en cas de problèmes (souvent le support niveau 2)
+* Tag=**sd**: identifiant du service desk qui assure l'assistance de premier niveau, en pensant aux hotlines rotatives 24/7 (en 3x8h) et donc une identification unique pour un groupe de multiples hotlines.
+* Tag=**ed**: End Date - la date de fin au format YYYYMMDD ou bien YYYY-MM-DD c'est plus explicite.
+* Tag=**sd**: Start Date - le début prévu d'utilisation de la ressource (et non la date de sa création)
+* Tag= : non limitatif...
 
-On peut voir que les tag sont souvent redondants, avec la convention de nommage, mais cela peut permettre de détecter des erreurs et incohérences. On peut utiliser des "Policies" pour forcer la présence de certains tag à la création.
+On peut voir que les tag sont souvent redondants avec la convention de nommage, mais cela peut permettre de détecter des erreurs et incohérences. On peut utiliser des "Policies" pour forcer la présence de certains tag à la création (Centre de cout par ex.)
