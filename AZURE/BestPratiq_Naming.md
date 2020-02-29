@@ -14,7 +14,7 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
   * La date de création est inutile, les metadata d'Azure fournissent cette information.
 
 ## Stratégies
-Le 'container' de base est le groupe de ressources (Resource group). Mai snous avons la souscription qui va servir de 'container' de niveaux supérieurs, et les 
+Le 'container' de base est le groupe de ressources (Resource group). Mais nous avons la souscription qui va servir de 'container' de niveaux supérieurs, et les 
 * **Minimaliste**: Le moins de groupes de ressources possibles. Cela implique de regrouper toutes les ressources sous la même délégation d'usages et de droits, dans un seul et même 'container'.
   * Attention aux ressources temporaires, à mettre tout de même dans leur même 'container' 
 * **Granulaire** (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. Et donc, le plus grand nombre de ressources.
@@ -30,6 +30,9 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
   * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
     * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
+* Virtual Network: `<loc>`-vnet-_identifiant_`-YYYYMMDD`
+  * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_16
+  * Le réseau étant utilisé par multiples objets et centres de couts, on peut omettre souvent `-`<obj>`-`<cc>`
 * Pour les autres objets, réutiliser les autres "préfixes" prévus: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#recommended-resource-type-prefixes
   * Il est judicieux de répéter le type de l'objet dans le nom, pour les scripts et exports/rapports textes.
   * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
