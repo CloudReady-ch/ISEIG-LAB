@@ -1,4 +1,9 @@
 # Convention de nommage
+Contrairement aux recommandations de Microsoft, ne pas utiliser le préfixe répétant le type de l'objet au début (mais à la fin). Quel est la première clef de recherche et de sélection dans votre organisation?
+* Multinationales: Le pays et la ville...
+* PME locales: Le nom du client, ou du département, ou du projet...
+
+Utiliser comme premier code le déterminant le plus significatif, puis le suivant.
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#sample-naming-convention
 ## Données significatives
 * Object/sujet `<obj>`: Le projet, le service ou le département, l'application...
@@ -21,6 +26,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
   * _identifiant_: sera le plus explicite possible: "wordpress_URL", "webservices_X", "shares_bidule". Pour une stratégie minimaliste, ce sera plus le nom de l'équipe utilisatrice, que des services inclus.
     * Les espaces sont en réalité tolérés, mais pour faciliter l'écriture des scripts, les bannir!
     * Il est possible de remplacer le _ par MajMin pour SéparerLesMots
+    * cf. https://docs.microsoft.com/fr-ch/azure/azure-resource-manager/management/resource-name-rules
   * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
     * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
