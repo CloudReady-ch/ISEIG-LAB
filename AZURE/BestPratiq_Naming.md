@@ -10,10 +10,10 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 
 ## Stratégies
 Le 'container' de base est le groupe de ressources (Resource group). Mai snous avons la souscription qui va servir de 'container' de niveaux supérieurs, et les 
-* Minimaliste: Le moins de groupes de ressources possibles. Cela implique de regrouper toutes les ressources sous la même délégation d'usages et de droits, dans un seul et même 'container'.
+* **Minimaliste**: Le moins de groupes de ressources possibles. Cela implique de regrouper toutes les ressources sous la même délégation d'usages et de droits, dans un seul et même 'container'.
   * Attention aux ressources temporaires, à mettre tout de même dans leur même 'container' 
-* Granulaire (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. Et donc, le plus grand nombre de ressources.
-* intermédiaire: Adaptation selon la situation, avec un regroupement de ressources parfois dans un seul 'container', mais pas systématiquement. Souvent, on veut partir minimaliste, et in fine, on se met à créer un nouveau 'container', mais qui comprendra les mêmes groupes assignés qu'un existant, sauf quôn a pas pris le temps de le vérifier.
+* **Granulaire** (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. Et donc, le plus grand nombre de ressources.
+* **intermédiaire**: Adaptation selon la situation, avec un regroupement de ressources parfois dans un seul 'container', mais pas systématiquement. Souvent, on veut partir minimaliste, et in fine, on se met à créer un nouveau 'container', mais qui comprendra les mêmes groupes assignés qu'un existant, sauf qu'on a pas pris le temps de le vérifier, et donc on perd un peu de minimalisme, mais c'est pas grave :)
 
 ## exemple
 * Resource group (Groupe de ressources): `<loc>`-`<obj>`-`<cc>`-rg-_identifiant_`-YYYYMMDD`
