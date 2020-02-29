@@ -39,6 +39,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
   * `-YYYYMMDD` est souvent absent aussi
 * **Subnet**: `<loc>`-snet-_identifiant_
   * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_24
+  * Le subnet étant parfois associé à un objet défini, on peut avoir: `<loc>`-`<obj>`-`<cc>`-snet-10.0.1.0_24
 * Pour les autres objets, réutiliser les autres "préfixes" prévus: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#recommended-resource-type-prefixes
   * Il est judicieux de répéter le type de l'objet dans le nom, pour les scripts et exports/rapports textes.
   * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
