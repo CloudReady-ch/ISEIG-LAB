@@ -27,6 +27,10 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
 
 
 # Convention pour les TAGs
+Les tags sont des étiquettes saisies avec une paire de valeurs:
+* La première valeur est le nom de l'étiquette, et nous ne sommes plus censé en créer de nouvelles, sauf au début.
+* La seconde valeur est le contenu de cette étiquette. NB. Il est donc possible de saisir plusieurs fois la même étiquette, avec des valeurs différentes (par exemple, une ressources utilisée sur 2 localisations)
+
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#metadata-tags
 * Tag=loc: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
   * si les objets concernent un espace inter-nations, ajouter un codage région-zones: 
