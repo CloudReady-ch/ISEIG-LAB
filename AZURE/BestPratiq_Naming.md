@@ -49,7 +49,7 @@ Les tags sont des étiquettes saisies avec une paire de valeurs (tuple?):
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#metadata-tags
 ## Exemple d'étiquettes (tags)
-Comme le nom de l'étiquette est sélectionné dans une liste, on peut expliciter via une désignation plus complète, mais je proposer les abréviations suivantes franco-anglaises compatibles:
+Comme le nom de l'étiquette est sélectionné dans une liste, on peut expliciter via une désignation plus complète, mais je propose les abréviations suivantes franco-anglaises compatibles:
 * Tag=**loc**: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
   * si les objets concernent un espace inter-nations, ajouter un codage région-zones: 
   * digital ex. cf. https://www.bfs.admin.ch/bfs/fr/home/bases-statistiques/stgb.assetdetail.7626604.html
