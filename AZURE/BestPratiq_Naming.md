@@ -21,7 +21,9 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
   * _identifiant_: sera le plus explicite possible: "wordpress_URL", "webservices_X", "shares_bidule"
     * Les espaces sont en réalité tolérés, mais pour faciliter écriture des scripts, les bannir!
     * Il est possible de remplacer le _ par MajMin pour SéparerLesMots
-  * La date de fin prévue pour cette ressource, si elle est planifiée (durée d'un projet). C'est mieux de prendre de la marge, car on peut pas la renommer. On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
+  * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
+    * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
+    * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
 
 
 # Convention pour les TAGs
