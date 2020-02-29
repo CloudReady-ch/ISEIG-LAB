@@ -21,7 +21,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
 * **intermédiaire**: Adaptation selon la situation, avec un regroupement de ressources parfois dans un seul 'container', mais pas systématiquement. Souvent, on veut partir minimaliste, et in fine, on se met à créer un nouveau 'container', mais qui comprendra les mêmes groupes assignés qu'un existant, sauf qu'on a pas pris le temps de le vérifier, et donc on perd un peu de minimalisme, mais c'est pas grave :)
 
 ## exemple
-* Resource group (Groupe de ressources): `<loc>`-`<obj>`-`<cc>`-rg-_identifiant_`-YYYYMMDD`
+* **Resource group** (Groupe de ressources): `<loc>`-`<obj>`-`<cc>`-rg-_identifiant_`-YYYYMMDD`
   * Pour une organisation moins mondialisée, le premier rang sera plutôt l'objet (client ou projet ou application ou service).
   * _identifiant_: sera le plus explicite possible: "wordpress_URL", "webservices_X", "shares_bidule". Pour une stratégie minimaliste, ce sera plus le nom de l'équipe utilisatrice, que des services inclus.
     * Les espaces sont en réalité tolérés, mais pour faciliter l'écriture des scripts, les bannir!
@@ -30,9 +30,12 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
   * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
     * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
-* Virtual Network: `<loc>`-vnet-_identifiant_`-YYYYMMDD`
+* **Virtual Network**: `<loc>`-vnet-_identifiant_
   * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_16
   * Le réseau étant utilisé par multiples objets et centres de couts, on peut omettre souvent `-`<obj>`-`<cc>`
+  * `-YYYYMMDD` est souvent absent aussi
+* Subnet: `<loc>`-snet-_identifiant_
+  * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_24
 * Pour les autres objets, réutiliser les autres "préfixes" prévus: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#recommended-resource-type-prefixes
   * Il est judicieux de répéter le type de l'objet dans le nom, pour les scripts et exports/rapports textes.
   * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
