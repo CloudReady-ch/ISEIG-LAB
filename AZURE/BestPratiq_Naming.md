@@ -34,16 +34,16 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
   * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_16
   * Le réseau étant utilisé par multiples objets et centres de couts, on peut omettre souvent `-`<obj>`-`<cc>`
   * `-YYYYMMDD` est souvent absent aussi
-* Subnet: `<loc>`-snet-_identifiant_
+* **Subnet**: `<loc>`-snet-_identifiant_
   * _identifiant_: Le réseau IP_CIDR, ex. 10.0.0.0_24
 * Pour les autres objets, réutiliser les autres "préfixes" prévus: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#recommended-resource-type-prefixes
   * Il est judicieux de répéter le type de l'objet dans le nom, pour les scripts et exports/rapports textes.
   * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
 
 # Convention pour les TAGs
-Les tags sont des étiquettes saisies avec une paire de valeurs:
+Les tags sont des étiquettes saisies avec une paire de valeurs (tuple?):
 * La première valeur est le nom de l'étiquette, et nous ne sommes plus censé en créer de nouvelles, sauf au début.
-* La seconde valeur est le contenu de cette étiquette. NB. Il est donc possible de saisir plusieurs fois la même étiquette, avec des valeurs différentes (par exemple, une ressources utilisée sur 2 localisations)
+* La seconde valeur est le contenu de cette étiquette. NB. Il est donc possible de saisir plusieurs fois la même étiquette, avec des valeurs différentes (par exemple, une ressources utilisée par 2 localisations)
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#metadata-tags
 * Tag=**loc**: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
