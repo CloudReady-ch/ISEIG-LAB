@@ -70,3 +70,6 @@ Comme le nom de l'étiquette est sélectionné dans une liste, on peut explicite
 * Tag= : non limitatif...
 
 On peut voir que les tag sont souvent redondants avec la convention de nommage, mais cela peut permettre de détecter des erreurs et incohérences. On peut utiliser des "Policies" pour forcer la présence de certains tag à la création (Centre de cout par ex.)
+
+##### CC-BY-NC-SA
+Documentation en libre usage non commercial, améliorations republiées recommandées, nous rejoindre ici-même http://callme.kotte.net
