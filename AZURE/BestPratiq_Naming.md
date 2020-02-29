@@ -15,7 +15,7 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
   * La date de début d'utilisation prévue, sera dans un Tag (étiquette).
 
 ## Stratégies
-Le 'container' de base est le groupe de ressources (Resource group). Mais nous avons la souscription qui va servir de 'container' de niveaux supérieurs, et les 
+Le 'container' de base est le groupe de ressources (Resource group). Mais nous avons la souscription qui va servir de 'container' de niveau supérieur, et encore les groupes de gestion ([Management groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)) qui peuvent regrouper des souscriptions, avec héritage hiérarchique cette fois.
 * **Minimaliste**: Le moins de groupes de ressources possibles. Cela implique de regrouper toutes les ressources sous la même délégation d'usages et de droits, dans un seul et même 'container'.
   * Attention aux ressources temporaires, à mettre tout de même dans leur même 'container' 
 * **Granulaire** (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. Et donc, le plus grand nombre de ressources.
