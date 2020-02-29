@@ -27,7 +27,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
     * Les espaces sont en réalité tolérés, mais pour faciliter l'écriture des scripts, les bannir!
     * Il est possible de remplacer le _ par MajMin pour SéparerLesMots
     * cf. https://docs.microsoft.com/fr-ch/azure/azure-resource-manager/management/resource-name-rules
-  * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
+  * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans le temps (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
     * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
 * **Virtual Network**: `<loc>`-vnet-_identifiant_
