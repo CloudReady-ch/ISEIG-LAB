@@ -19,7 +19,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
 * Resource group (Groupe de ressources): `<loc>`-`<obj>`-`<cc>`-rg-_identifiant_`-YYYYMMDD`
   * Pour une organisation moins mondialisée, le premier rang sera plutôt l'objet (client ou projet ou application ou service).
   * _identifiant_: sera le plus explicite possible: "wordpress_URL", "webservices_X", "shares_bidule". Pour une stratégie minimaliste, ce sera plus le nom de l'équipe utilisatrice, que des services inclus.
-    * Les espaces sont en réalité tolérés, mais pour faciliter écriture des scripts, les bannir!
+    * Les espaces sont en réalité tolérés, mais pour faciliter l'écriture des scripts, les bannir!
     * Il est possible de remplacer le _ par MajMin pour SéparerLesMots
   * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
