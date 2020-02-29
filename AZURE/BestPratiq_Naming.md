@@ -18,7 +18,9 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 Le 'container' de base est le groupe de ressources (Resource group). Mais nous avons la souscription qui va servir de 'container' de niveau supérieur, et encore les groupes de gestion ([Management groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)) qui peuvent regrouper des souscriptions, avec héritage hiérarchique cette fois.
 * **Minimaliste**: Le moins de groupes de ressources possibles. Cela implique de regrouper toutes les ressources sous la même délégation d'usages et de droits, dans un seul et même 'container'.
   * Attention aux ressources temporaires, à mettre tout de même dans leur même 'container' 
-* **Granulaire** (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. Et donc, le plus grand nombre de ressources.
+* **Granulaire** (ou atomiste): Le nombre de groupes ressources nécessaires pour regrouper le plus petit 'container' possible pour gérer un service cohérent et de ressources inter-dépendantes. 
+  * Et donc, va générer le plus grand nombre de groupes de ressources.
+  * On évite de créer un 'resource group' par unité de ressource (il ne faut pas abuser)
 * **intermédiaire**: Adaptation selon la situation, avec un regroupement de ressources parfois dans un seul 'container', mais pas systématiquement. Souvent, on veut partir minimaliste, et in fine, on se met à créer un nouveau 'container', mais qui comprendra les mêmes groupes assignés qu'un existant, sauf qu'on a pas pris le temps de le vérifier, et donc on perd un peu de minimalisme, mais c'est pas grave :)
 
 ## exemple
