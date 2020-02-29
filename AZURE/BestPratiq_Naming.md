@@ -10,8 +10,9 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 * Centre de coût `<cc>`: Pour usage rapports financiers et refacturations
 * Localisation `<loc>`: Le code pays ([ISO3166-1 alpha-2](https://fr.wikipedia.org/wiki/ISO_3166-1#Table_de_codage))
 * Duration: `<dur>`: La date ISO-8601 YYYY-MM-DD (Date ISO 10c) ou YYYYMMDD (Date ISO 8n)
-  * La date est omise quand la durée est indéterminée, ajoutée quand une date de fin est prévue. Comme la désignation est rarement modifiable, tant pis si cela change...
+  * La date est omise quand la durée est indéterminée, ajoutée quand une date de fin est prévue. Comme la désignation est rarement modifiable, tant pis si cela change (prévoir plus large).
   * La date de création est inutile, les metadata d'Azure fournissent cette information.
+  * La date de début d'utilisation prévue, sera dans un Tag (étiquette).
 
 ## Stratégies
 Le 'container' de base est le groupe de ressources (Resource group). Mais nous avons la souscription qui va servir de 'container' de niveaux supérieurs, et les 
