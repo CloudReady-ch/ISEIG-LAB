@@ -27,7 +27,7 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
 * **Resource group** (Groupe de ressources): `<loc>`-`<obj>`-`<cc>`-rg-_identifiant_`-YYYYMMDD` 
     * ex. CH-eGovTeam-DEV-rg-eVotingTesting-20200901
   * Pour une organisation moins mondialisée, le premier rang sera plutôt l'objet (client ou projet ou application ou service), voir `<loc>` totalement omis ou remplacé par `<clt>` par exemple (Le nom court et abrévié du client).
-    * ex. ISEIG-Lausanne-DEV-rg-evotingTesting-20200901
+    * ex. ISEIG-Lausanne-DEV-rg-eVotingTesting-20200901
   * _identifiant_: sera le plus explicite possible: "wordpress_URL", "webservices_X", "shares_bidule". Pour une stratégie minimaliste, ce sera plus le nom de l'équipe utilisatrice, que des services inclus.
     * Les espaces sont en réalité tolérés, mais pour faciliter l'écriture des scripts, les bannir!
     * Il est possible de remplacer le _ par MajMin pour SéparerLesMots
