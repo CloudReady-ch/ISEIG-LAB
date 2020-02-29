@@ -42,11 +42,14 @@ Le 'container' de base est le groupe de ressources (Resource group). Mais nous a
   * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
 
 # Convention pour les TAGs
+## Format JSON (tuples)
 Les tags sont des étiquettes saisies avec une paire de valeurs (tuple?):
 * La première valeur est le nom de l'étiquette, et nous ne sommes plus censé en créer de nouvelles, sauf au début.
 * La seconde valeur est le contenu de cette étiquette. NB. Il est donc possible de saisir plusieurs fois la même étiquette, avec des valeurs différentes (par exemple, une ressources utilisée par 2 localisations)
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#metadata-tags
+## Exemple d'étiquettes (tags)
+Comme le nom de l'étiquette est sélectionné dans une liste, on peut expliciter via une désignation plus complète, mais je proposer les abréviations suivantes franco-anglaises compatibles:
 * Tag=**loc**: Localisation, on peut reprendre le même code ISO-2, et ajouter la commune, si services localisés (+ "-`<Commune>`")
   * si les objets concernent un espace inter-nations, ajouter un codage région-zones: 
   * digital ex. cf. https://www.bfs.admin.ch/bfs/fr/home/bases-statistiques/stgb.assetdetail.7626604.html
@@ -56,7 +59,7 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 * Tag=**obj**: idem
 * Tag=**resp**: identifiant du service, département ou de la personne responsable, décideuse pour la ressource concernée
 * Tag=**sup**: identifiant du service, département ou de la personne responsable du support technique, des SLAs, à avertir en cas de problèmes (souvent le support niveau 2)
-* Tag=**sd**: identifiant du service desk qui assure l'assistance de premier niveau, en pensant aux hotlines rotatives 24/7 (en 3x8h) et donc une identification unique pour un groupe de multiples hotlines.
+* Tag=**sd**: identifiant du service desk qui assure l'assistance de premier niveau, en pensant aux hotlines rotatives 24/7 (en 3x8h) et donc via une identification unique pour un groupe de multiples hotlines (sur les 3 continents).
 * Tag=**ed**: End Date - la date de fin au format YYYYMMDD ou bien YYYY-MM-DD c'est plus explicite.
 * Tag=**sd**: Start Date - le début prévu d'utilisation de la ressource (et non la date de sa création)
 * Tag= : non limitatif...
