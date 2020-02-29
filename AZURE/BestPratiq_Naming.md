@@ -33,6 +33,8 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 * Tag=resp: identifiant du service, département ou de la personne responsable, décideuse pour la ressource concernée
 * Tag=sup: identifiant du service, département ou de la personne responsable du support technique, des SLAs, à avertir en cas de problèmes (souvent le support niveau 2)
 * Tag=sd: identifiant du service desk qui assure l'assistance de premier niveau, en pensant aux hotlines rotatives 24/7 (en 3x8h) et donc une identification unique pour un groupe de multiples hotlines.
+* Tag=ed: End Date - la date de fin au format YYYYMMDD ou bien YYYY-MM-DD c'est plus explicite.
+* Tag=sd: Start Date - le début prévu d'utilisation de la ressource (et non la date de sa création)
 * Tag= : non limitatif.
 
 On peut voir que les tag sont souvent redondants, avec la convention de nommage, mais cela peut permettre de détecter des erreurs et incohérences. On peut utiliser des "Policies" pour forcer la présence de certains tag à la création.
