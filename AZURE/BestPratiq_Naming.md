@@ -5,7 +5,7 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best
 * Centre de coût `<cc>`: Pour usage rapports financiers et refacturations
 * Localisation `<loc>`: Le code pays ([ISO3166-1 alpha-2](https://fr.wikipedia.org/wiki/ISO_3166-1#Table_de_codage))
 * Duration: `<dur>`: La date ISO-8601 YYYY-MM-DD (Date ISO 10c) ou YYYYMMDD (Date ISO 8n)
-  * La date est omise quand la durée est indéterminée, ajoutée quand une date est prévue. Comme la désignation est rarement modifiable, tant pis si cela change...
+  * La date est omise quand la durée est indéterminée, ajoutée quand une date de fin est prévue. Comme la désignation est rarement modifiable, tant pis si cela change...
   * La date de création est inutile, les metadata d'Azure fournissent cette information.
 
 ## Stratégies
