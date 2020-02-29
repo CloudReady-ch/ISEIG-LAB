@@ -30,7 +30,9 @@ Le 'container' de base est le groupe de ressources (Resource group). Mai snous a
   * La date de fin prévue (la plus probable) pour cette ressource, si elle est limitée dans la durée (durée d'un projet). 
     * C'est mieux de prendre de la marge pour la date de fin, car on ne peut généralement pas renommer. 
     * On peut ensuite scripter la détection des ressources non supprimées, passées de dates...
-
+* Pour les autres objets, réutiliser les autres "préfixes" prévus: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging#recommended-resource-type-prefixes
+  * Il est judicieux de répéter le type de l'objet dans le nom, pour les scripts et exports/rapports textes.
+  * Simplement, l'utiliser en postfix et non préfix, mais le conserver devant la date de fin optionnelle.
 
 # Convention pour les TAGs
 Les tags sont des étiquettes saisies avec une paire de valeurs:
