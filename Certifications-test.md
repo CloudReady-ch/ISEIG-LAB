@@ -6,7 +6,7 @@ Les "braindump" ont permis à de nombreux candidats de réussir des examens sans
 * Les jeux de questions Pearson officiel issu des pages proposées par Microsoft même: 90€ pour 1 à 2 mois d'accès (que en ligne), à priori questions similaires mais différentes.
 * http://examsforall.com/exams/microsoft/ de l'ordre de 25€ le jeux de questions, 
   * souvent proches (ou identiques aux tests), Microsoft va parfois mélanger ou négativer les mêmes questions pour tromper celui qui aura dumpé.
-    * Problème, c'est que tu dois rester attentif aux formules négatives et ne pas sauter sur une réponse trop vite
+    * Problème, c'est que tu dois rester attentif aux formules négatives et ne pas sauter sur une réponse trop vite, même si toi-même n'utilise pas les dumps.
   * avec réponses parfois douteuses (mais parfois, c'est bien la réponse du test) Mais cela aide à se préparer
 
 D'autres sources sont faciles à trouver par Google, mais pas nécessairement plus économiques:
