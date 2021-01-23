@@ -2,6 +2,10 @@
 
 ### IAM
 **Identity and Access Management***, Gestion des identités et des accès https://fr.wikipedia.org/wiki/Gestion_des_identit%C3%A9s_et_des_acc%C3%A8s
+### PIM
+* Dans le contexte générique: **Product Information Management**: https://fr.wikipedia.org/wiki/Product_information_management
+* Mais chez Microsoft Azure c'est un service: **Privileged Identity Management**, https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
+  * permet de gérer, contrôler et superviser l’accès aux ressources importantes/sensibles.
 ### SIEM 
 **Security information and event management**, aussi SEM, SEIM ou SIM. https://fr.wikipedia.org/wiki/Security_information_management_system
 ### UPN
