@@ -1,5 +1,7 @@
 # Lexique - Glossaire- Vocabulaire et abréviations
 
+### IAM
+**Identity and Access Management***, Gestion des identités et des accès https://fr.wikipedia.org/wiki/Gestion_des_identit%C3%A9s_et_des_acc%C3%A8s
 ### SIEM 
 **Security information and event management**, aussi SEM, SEIM ou SIM. https://fr.wikipedia.org/wiki/Security_information_management_system
 ### UPN
