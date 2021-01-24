@@ -1,7 +1,11 @@
 # Lexique - Glossaire- Vocabulaire et abréviations
 
+### FIDO
+FIDO Alliance, propose U2F, 2nd facteur universel, pour faire du **2FA** double facteur identification: https://fr.wikipedia.org/wiki/Universal_Second_Factor
 ### IAM
 **Identity and Access Management***, Gestion des identités et des accès https://fr.wikipedia.org/wiki/Gestion_des_identit%C3%A9s_et_des_acc%C3%A8s
+### MFA
+**Multi Factor Authentication** comme avec Windows Hello. 
 ### PIM
 * Dans le contexte générique: **Product Information Management**: https://fr.wikipedia.org/wiki/Product_information_management
 * Mais chez Microsoft Azure c'est un service: **Privileged Identity Management**, https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure
