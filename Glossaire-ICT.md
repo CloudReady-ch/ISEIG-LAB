@@ -1,6 +1,6 @@
 # Glossaire, lexique informatique
-## Multiple sources
-* TK à retrouver...
+## sources (à consolider 1 jour?)
+* https://github.com/CloudReady-ch/QuickLearn/blob/master/LEXIQUE.md
 
 ### Domaine Sécurité
 https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-500/Vocabulaire.md
