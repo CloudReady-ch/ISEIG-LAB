@@ -21,3 +21,5 @@ FIDO Alliance, propose U2F, 2nd facteur universel, pour faire du **2FA** double 
   * https://www.cisco.com/c/fr_fr/products/security/what-is-xdr.html
   * Il est la suite logique des EDR (Endpoint Detection & Response) https://www.mcafee.com/enterprise/fr-fr/security-awareness/endpoint/what-is-xdr.html
   
+# Autres lexiques
+* https://github.com/CloudReady-ch/QuickLearn/blob/8e53e02b85a2880f6d69e0481b28e6a081704999/LEXIQUE.md
