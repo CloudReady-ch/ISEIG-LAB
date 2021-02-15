@@ -1,5 +1,7 @@
 # Lexique - Glossaire- Vocabulaire et abréviations
 
+### DSR
+**Data Subject Request** en DGPR (UE) ou LPD (CH) est classiquement une demande de remise de copie de toutes les données privées d'une personne physique.
 ### FIDO
 FIDO Alliance, propose U2F, 2nd facteur universel, pour faire du **2FA** double facteur identification: https://fr.wikipedia.org/wiki/Universal_Second_Factor
 ### IAM
