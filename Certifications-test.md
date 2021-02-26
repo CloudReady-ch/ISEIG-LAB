@@ -31,7 +31,7 @@ D'autres sources sont faciles à trouver par Google, mais pas nécessairement pl
   * https://quiztorrent.testbraindump.com/Microsoft-exam-training.html
   * dommage que [le PDF](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/MS-500/ms-500.pdf) ne mette pas la réponse sur la ligne en dessous de "Answer"... 
 
-(vos avis et recommandations wlecome)
+(vos avis et recommandations welcome)
 
 Des vieux noms connus ont disparu depuis...
 * Brainbuzz.com
