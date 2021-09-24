@@ -1,4 +1,4 @@
-# ISEIG-LAB (Microsoft)
+# ISEIG-LAB (Microsoft, ITIL)
 LABs et documentation pour les travaux d'apprentissages numériques avec http://ISEIG.ch (en partie) et dans le cadre d'une expérience CoLearning en association avec 
 * http://CloudReady.ch, 
 * http://ICT-a.ch, 
