@@ -13,7 +13,7 @@ Pour une école, ou des utilisateurs temporaires, c'est mieux de désactiver l'a
 
 
 Option alternative: Créer un script powershell: 
-> ***Set-GlobalAddressList -Identity <GALIdentity>] [-Name <Name>] [<Precanned recipient filter | Custom recipient filter>]***
+> ***Set-GlobalAddressList -Identity <GALIdentity>] [-Name <Name>] [<Precanned recipient filter | Custom recipient filter>]***  
 > Set-GlobalAddressList -Identity "Contoso GAL" -ConditionalCompany @{Add="Fabrikam";Remove="Arthur Machin"}
 
 ## Education
