@@ -9,7 +9,7 @@ Pour une école, ou des utilisateurs temporaires, c'est mieux de désactiver l'a
 ![GAL hide unhide step2.jpg](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/pictures/GAL%20hide%20unhide%20step2.jpg)
 * Activer l'option "Hide"
 * Pour les groupes, il faut faire un par un:
-![GAL hide hide groups.jpg](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/pictures/GAL hide hide groups.jpg)
+![GAL hide hide groups.jpg](https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Office365/pictures/GAL%20hide%20hide%20groups.jpg)
 Option alternative: Créer un script powershell: 
 > Set-GlobalAddressList -Identity <GALIdentity>] [-Name <Name>] [<Precanned recipient filter | Custom recipient filter>]
 
