@@ -1,4 +1,4 @@
-# Ce script affiche
+# Ce script affiche la liste des updates d'une machine Windows, avec date et heure.
 $Session = New-Object -ComObject "Microsoft.Update.Session"
 $Searcher = $Session.CreateUpdateSearcher()
 $historyCount = $Searcher.GetTotalHistoryCount()
