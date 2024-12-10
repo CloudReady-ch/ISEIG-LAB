@@ -1,6 +1,8 @@
 # Exam Ref AZ-900 Microsoft Azure Fundamentals  
 * Source: https://ptgmedia.pearsoncmg.com/images/9780135732182/downloads/9780135732182_URLs.pdf
-List of URLs 
+List of URLs
+* 460 questions en ligne: https://examgecko.com/az-900-microsoft-azure-fundamentals/questions
+# Chapters
 ## Chapter 1: Understand cloud concepts 
 * https://docs.microsoft.com/en-us/azure/architecture/patterns/ 
 * https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling 
