@@ -1,6 +1,6 @@
 # Certification
 * EXIN Cloud Computing Foundation
-La* nguage: English
+* Language: English
 * Price: € 242.00 (VAT included)
 
 # Autre sources
