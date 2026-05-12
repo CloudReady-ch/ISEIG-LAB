@@ -11,8 +11,12 @@ Les formations AZURE Fundamentales sont désormais en ligne chez Microsoft
       * [Présentation de Visual Studio Code](https://learn.microsoft.com/fr-fr/training/modules/introduction-to-visual-studio-code/)
     * Une fois dans Azure: https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/learning 
 * Pour passer la certification, disponible en français (possible de réserver directement ici +41 (0)21 654 40 60, info@iseig.ch
-  * en France: 99 € https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals
-  * en Suisse: 130 CHF https://learn.microsoft.com/fr-ch/credentials/certifications/azure-fundamentals
+  * en France: 
+    * [76 €](https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam)
+    * Ex 99 € https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals
+  * en Suisse:
+    * [71 CHF](https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam) a Commander à l'ISEIG.ch pour le passer en présentiel. 
+    * Ex 130 CHF https://learn.microsoft.com/fr-ch/credentials/certifications/azure-fundamentals
   * Guide d'études: https://learn.microsoft.com/fr-fr/credentials/certifications/resources/study-guides/az-900
     * braindump https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/AZ-900/AZ-900-questions.pdf
     * Si vous en avez d'autres, nous les partager
