@@ -4,3 +4,6 @@ Qualification Objectives
 * Explain data mining.
 * Discuss the most popular Big Data technologies—Hadoop and MongoDB.
 * Tell about Big Data projects and the main players involved.
+
+# CloudReady
+* bigdata.cloudready.ch => https://medium.com/chatbot-ch/bigdata-bf4483cd335a
