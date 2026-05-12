@@ -3,3 +3,5 @@ L'Internet des Objets gagne en popularité. Les entreprises de multiples secteur
 Cette formation permet de comprendre la technologie IoT et donne un aperçu détaillé du potentiel commercial qu'elle offre actuellement. 
 La formation comporte des éléments essentiels qui peuvent permettre et soutenir le processus de prise de décision, tant pour les cadres que pour les utilisateurs. Cela leur permettra d'analyser la stratégie future et
 de s'aligner pour égaler ou devancer la concurrence
+
+https://github.com/CloudReady-ch/QuickLearn/tree/master/EXIN/IOT
