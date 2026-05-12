@@ -7,3 +7,5 @@ terminology and the general principles. This syllabus covers the potential benef
 types of Artificial Intelligence; the basic process of Machine Learning (ML); the
 challenges and risks associated with an AI project, and the future of AI and Humans
 in work.
+
+https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/EXIN/AI/README.md
