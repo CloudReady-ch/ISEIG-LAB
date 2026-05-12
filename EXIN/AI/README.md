@@ -8,4 +8,4 @@ types of Artificial Intelligence; the basic process of Machine Learning (ML); th
 challenges and risks associated with an AI project, and the future of AI and Humans
 in work.
 
-https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/EXIN/AI/README.md
+https://github.com/CloudReady-ch/QuickLearn/blob/master/EXIN/AI/0.intro-AI.md
