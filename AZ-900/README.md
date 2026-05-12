@@ -15,7 +15,7 @@ Les formations AZURE Fundamentales sont désormais en ligne chez Microsoft
     * [76 €](https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam)
     * Ex 99 € https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals
   * en Suisse:
-    * [71 CHF](https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam) a Commander à l'ISEIG.ch pour le passer en présentiel. 
+    * [71 CHF](https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam) a Commander à l'ISEIG.ch pour le passer en présentiel (Lausanne). 
     * Ex 130 CHF https://learn.microsoft.com/fr-ch/credentials/certifications/azure-fundamentals
   * Guide d'études: https://learn.microsoft.com/fr-fr/credentials/certifications/resources/study-guides/az-900
     * braindump https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/AZ-900/AZ-900-questions.pdf
