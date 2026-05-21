@@ -22,7 +22,7 @@ Bienvenue dans les modules EXIN.
 ---
 
 ## ☁️ Cloud Computing Foundation
-👉 [Accéder au module](./Cloud%20Computing%20Foundation/README.md)
+👉 [Accéder au module]([https://github.com/CloudReady-ch/ISEIG-LAB/tree/master/EXIN/Cloud%20Computing%20Foundation)
 
 ---
 
