@@ -12,32 +12,32 @@ Bienvenue dans les modules EXIN.
 # 📚 Modules
 
 ## 🤖 Intelligence Artificielle
-👉 [Accéder au module](./AI/README.md)
+👉 [Accéder au module](./AI/)
 
 ---
 
 ## 🌍 Internet of Things
-👉 [Accéder au module](./IoT/README.md)
+👉 [Accéder au module](./IoT/)
 
 ---
 
 ## ☁️ Cloud Computing Foundation
-👉 [Accéder au module]([https://github.com/CloudReady-ch/ISEIG-LAB/tree/master/EXIN/Cloud%20Computing%20Foundation)
+👉 [Accéder au module](./Cloud%20Computing%20Foundation)
 
 ---
 
 ## 🔗 Blockchain
-👉 [Accéder au module](./Blockchain/README.md)
+👉 [Accéder au module](./Blockchain/)
 
 ---
 
 ## 🌱 Green IT
-👉 [Accéder au module](./GreenIT/README.md)
+👉 [Accéder au module](./GreenIT/)
 
 ---
 
 ## 📊 Big Data Foundation
-👉 [Accéder au module](./Big%20Data%20Foundation/README.md)
+👉 [Accéder au module](./Big%20Data%20Foundation/)
 
 ⚠️ Module en préparation
 
