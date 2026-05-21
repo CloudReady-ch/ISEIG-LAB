@@ -2,48 +2,50 @@
 
 Bienvenue dans les modules EXIN.
 
-👉 Chaque module contient :
-- un README unique (source officielle)
-- les liens vers supports (PDF / PPTX)
-- un lien vers l’article Medium
+👉 Chaque module dispose d’une page unique (README) contenant :
+- les informations du module
+- les liens vers les supports (PDF / PPTX)
+- le lien vers l’article Medium
 
 ---
 
 # 📚 Modules
 
 ## 🤖 Intelligence Artificielle
-👉 ./AI/README.md  
+👉 [Accéder au module](./AI/README.md)
 
 ---
 
 ## 🌍 Internet of Things
-👉 ./IoT/README.md  
+👉 [Accéder au module](./IoT/README.md)
 
 ---
 
 ## ☁️ Cloud Computing Foundation
-👉 ./Cloud%20Computing%20Foundation/README.md  
+👉 [Accéder au module](./Cloud%20Computing%20Foundation/README.md)
 
 ---
 
 ## 🔗 Blockchain
-👉 ./Blockchain/README.md  
+👉 [Accéder au module](./Blockchain/README.md)
 
 ---
 
 ## 🌱 Green IT
-👉 ./GreenIT/README.md  
+👉 [Accéder au module](./GreenIT/README.md)
 
 ---
 
 ## 📊 Big Data Foundation
-👉 ./Big%20Data%20Foundation/README.md  
+👉 [Accéder au module](./Big%20Data%20Foundation/README.md)
 
-⚠️ Module en cours de préparation
+⚠️ Module en préparation
 
 ---
 
-# ⚠️ Règle importante
+# ⚠️ Règle
 
-👉 Chaque module est maintenu UNIQUEMENT dans son README  
-👉 Ce fichier sert uniquement de catalogue
+✅ 1 module = 1 README unique  
+✅ Ce fichier = navigation uniquement  
+
+``
